@@ -1,3 +1,4 @@
+#修改测试
 def total_rank(data):
     total_rank = [data['水质类别']]
     total_rank.append(PH_rank(data['pH']))
